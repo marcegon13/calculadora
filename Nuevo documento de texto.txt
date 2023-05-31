@@ -1,0 +1,2 @@
+Programar un formulario que calcule el porcentaje de un valor con JS. 
+pongo el numero y el %, presiono OK y me pone el resultado, con dos decimales y que evite el error cero
